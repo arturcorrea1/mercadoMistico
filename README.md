@@ -1,6 +1,4 @@
-# Bilu_store
-
-# Bilu Store
+### Mercado Místico - "Bilu Store"
 
 Neste trabalho recebemos a proposta de criar um mercado místico na área de técnico de informática, então criamos um mercado digital com o tema de alienígenas, para isso utilizamos as linguagens de programação HTML, CSS e JS.
 
